@@ -10,3 +10,7 @@ This repository contains a Keras implementation of the algorithm presented in th
 
 Execute ```tracker/server.py``` to monitor all instances.
 Execute ```learn_and_test.py``` to start training or testing.
+
+### References
+
+https://github.com/wanji/sh
